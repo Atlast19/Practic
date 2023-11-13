@@ -1,0 +1,15 @@
+C:\Users\Ahlea\Desktop\proyecto fac\Practic\Practic\bin\Debug\net6.0\Practic.exe
+C:\Users\Ahlea\Desktop\proyecto fac\Practic\Practic\bin\Debug\net6.0\Practic.deps.json
+C:\Users\Ahlea\Desktop\proyecto fac\Practic\Practic\bin\Debug\net6.0\Practic.runtimeconfig.json
+C:\Users\Ahlea\Desktop\proyecto fac\Practic\Practic\bin\Debug\net6.0\Practic.dll
+C:\Users\Ahlea\Desktop\proyecto fac\Practic\Practic\bin\Debug\net6.0\Practic.pdb
+C:\Users\Ahlea\Desktop\proyecto fac\Practic\Practic\obj\Debug\net6.0\Practic.csproj.AssemblyReference.cache
+C:\Users\Ahlea\Desktop\proyecto fac\Practic\Practic\obj\Debug\net6.0\Practic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahlea\Desktop\proyecto fac\Practic\Practic\obj\Debug\net6.0\Practic.AssemblyInfoInputs.cache
+C:\Users\Ahlea\Desktop\proyecto fac\Practic\Practic\obj\Debug\net6.0\Practic.AssemblyInfo.cs
+C:\Users\Ahlea\Desktop\proyecto fac\Practic\Practic\obj\Debug\net6.0\Practic.csproj.CoreCompileInputs.cache
+C:\Users\Ahlea\Desktop\proyecto fac\Practic\Practic\obj\Debug\net6.0\Practic.dll
+C:\Users\Ahlea\Desktop\proyecto fac\Practic\Practic\obj\Debug\net6.0\refint\Practic.dll
+C:\Users\Ahlea\Desktop\proyecto fac\Practic\Practic\obj\Debug\net6.0\Practic.pdb
+C:\Users\Ahlea\Desktop\proyecto fac\Practic\Practic\obj\Debug\net6.0\Practic.genruntimeconfig.cache
+C:\Users\Ahlea\Desktop\proyecto fac\Practic\Practic\obj\Debug\net6.0\ref\Practic.dll
